@@ -9,7 +9,7 @@
   
   inputs.src-unrolled-master.flake = false;
   inputs.src-unrolled-master.owner = "schneiderfelipe";
-  inputs.src-unrolled-master.ref   = "refs/heads/master";
+  inputs.src-unrolled-master.ref   = "master";
   inputs.src-unrolled-master.repo  = "unrolled";
   inputs.src-unrolled-master.type  = "github";
   
